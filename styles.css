@@ -58,7 +58,7 @@ footer {
 #home {
     text-align: center;
     padding: 3rem 0;
-    background: url('/black.jpg') no-repeat center center/cover;
+    background: url('black.jpg') no-repeat center center/cover;
     color: #fff;
 }
 
@@ -76,7 +76,7 @@ footer {
     max-width: 800px;
     margin: 0 auto;
     text-align: center;
-    background: url('/black.jpg') no-repeat center center/cover;
+    background: url('black.jpg') no-repeat center center/cover;
     padding: 2rem 0;
 }
 
